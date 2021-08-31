@@ -2,6 +2,6 @@
 
 # Web UI design created using Figma 
 
-![](images/)
+![](homePage.PNG)
 
 ![](images/)
